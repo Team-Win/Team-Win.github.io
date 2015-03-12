@@ -4,4 +4,4 @@ Display the amazing work of Team Win in a webpage
 
 Currently on display: Hello World Test Page
 
-Put up next: Some fancy webapp
+Put up next: Instagram API stuff
